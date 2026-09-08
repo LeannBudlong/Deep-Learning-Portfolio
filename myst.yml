@@ -1,0 +1,47 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ddbe810b-af28-4966-9ac5-8d6aa5d00bf3
+  title: Deep Learning Portfolio
+  description: An initial portfolio
+  keywords:
+    - Deep Learning
+    - Data Science
+    - Machine Learning
+    - Python
+    - Jupyter
+  authors:
+    - name: "Leann Joy M. Budlong"
+
+  toc:
+  - file: intro.md
+  - file: about.md
+  - file: learning.md
+
+  - title: "Laboratory Activities"
+    children:
+      - file: labs/index.md
+      - file: labs/lab01.ipynb
+      - file: labs/lab02.ipynb
+      - file: labs/lab03.ipynb
+
+
+  - title: "Assignments"
+    children:
+      - file: assignments/index.md
+
+  - title: "Projects"
+    children:
+      - file: projects/index.md
+
+  - title: "Reflections"
+    children:
+      - file: reflections/index.md  
+
+  github: 
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+    logo_text: "Deep Learning Portfolio"
