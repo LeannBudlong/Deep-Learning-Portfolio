@@ -25,21 +25,11 @@ project:
       children:
         - file: labs/index.md
           title: Overview
-
         - file: labs/lab02.ipynb
-          title: Forward Propagation
-
         - file: labs/lab03.ipynb
-          title: Forward and Backward Propagation
-
         - file: labs/lab04.ipynb
-          title: Linear Regression in PyTorch
-
         - file: labs/lab05.ipynb
-          title: PyTorch Tensor Operations
-
         - file: labs/lab06.ipynb
-          title: CNN Architecture Implementation
 
     - title: "Assignments"
       children:
