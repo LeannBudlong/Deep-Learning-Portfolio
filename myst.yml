@@ -5,7 +5,7 @@ version: 1
 project:
   id: ddbe810b-af28-4966-9ac5-8d6aa5d00bf3
   title: Deep Learning Portfolio
-  description: An initial portfolio
+  description: A Data Science portfolio of labs, assignments, projects, and reflections in Deep Learning.
 
   keywords:
     - Deep Learning
@@ -14,20 +14,17 @@ project:
     - Python
     - Jupyter
 
-  authors:
-    - name: "Leann Joy M. Budlong"
+  # github: https://github.com/your-username/your-repo
 
   toc:
     - file: intro.md
-
-    - file: about.md
 
     - file: learning.md
 
     - title: "Laboratory Activities"
       children:
         - file: labs/index.md
-          title: Laboratory Activities
+          title: Overview
 
         - file: labs/lab02.ipynb
           title: Forward Propagation
@@ -55,8 +52,6 @@ project:
     - title: "Reflections"
       children:
         - file: reflections/index.md
-
-  github:
 
 site:
   template: book-theme

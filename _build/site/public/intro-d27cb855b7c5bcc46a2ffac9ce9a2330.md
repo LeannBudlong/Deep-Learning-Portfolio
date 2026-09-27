@@ -1,11 +1,14 @@
 ---
 title: Hello There 👋
-subtitle: Deep Learning Portfolio - Making Decisions That Matter
+subtitle: Leann Joy M. Budlong · 4th Year Data Science Student
 authors: []
 ---
 
+:::{tip} Welcome!
+This portfolio collects my assignments, labs, projects, and reflections as I work through Deep Learning this semester. Feel free to look around!
+:::
 
-I'm **Leann Joy M. Budlong**, a **4th year Data Science student** and I'm learning data and computational methods to make sense of messy, real-world problems, and then to actually *do something useful* with what I find. My favorite part of Data Science is the moment a pattern in the data lines up with what's happening in the real world. That's when numbers stop being just numbers and become a conclusion you can trust and act on.
+I'm drawn to using data and computational methods to make sense of messy, real-world problems, and then to actually *do something useful* with what I find. My favorite part of Data Science is the moment a pattern in the data lines up with what's happening in the real world. That's when numbers stop being just numbers and become a conclusion you can trust and act on.
 
 ## 🔍 Interests
 
@@ -19,8 +22,8 @@ Models that learn complex patterns *from* data instead of needing them hand-code
 The intelligent systems that quietly run in the background of daily life.
 :::
 
-:::{card} 📈 Data Visualization
-Using graphics to tell the story the data is trying to say.
+:::{card} 💬 Explainable Results
+Solutions that hold up when explained to someone who wasn't in the room when they were built.
 :::
 
 ::::
@@ -38,7 +41,7 @@ Build both the theory **and** the hands-on muscle memory to design, train, evalu
 | **Languages** | Python |
 | **ML / DL** | Machine Learning, Deep Learning, PyTorch |
 | **Data** | Data Analysis, Statistical Computing, Data Visualization |
-| **Workflow** | Jupyter Notebook, Jupyter Book, Figma |
+| **Workflow** | Jupyter Notebook, Jupyter Book |
 
 ## 📂 Explore My Work
 
