@@ -1,39 +1,46 @@
 # About Me
 
-## Hello!
+:::{admonition} 👋 Welcome!
+:class: tip
+This is my Data Science portfolio, built as I work through assignments, labs, and projects in Deep Learning. Feel free to look around!
+:::
 
-I'm **Leann Budlong**, a Data Science student interested in
-using data and computational methods to understand and solve
-real-world problems.
+## Hi, I'm Leann 👋
 
-My studies have given me experience working with data
-analysis, machine learning, statistical methods, Python,
-and Jupyter-based workflows.
+I'm a **4th Year Data Science student**, drawn to using data and computational methods to make sense of messy, real-world problems and, ideally, to actually *do something useful* with what I find.
 
-## My Interest in Deep Learning
+I found the part of Data Science I like most is watching raw numbers turn into something that actually means something. When a pattern in  the data lines up with what's happening in the real world, it stops being just numbers and becomes a conclusion you can actually trust and act on.
 
-Deep Learning interests me because of its ability to learn
-complex patterns from data and its applications in areas
-such as computer vision, natural language processing, and
-intelligent systems.
+## Why Deep Learning?
 
-Throughout this course, I aim to strengthen both my
-theoretical understanding and practical ability to develop
-Deep Learning solutions.
+What pulls me toward Deep Learning specifically is its ability to 
+learn complex patterns *from* data rather than needing them hand-coded 
+— powering things like computer vision, natural language processing, 
+and other intelligent systems that quietly run in the background of 
+daily life.
 
-## Skills
+This semester, my goal is simple: build both the theory *and* the 
+hands-on muscle memory to design, train, and actually explain a Deep 
+Learning model — not just get one to run.
 
-- Python
-- Data Science
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- Statistical Computing
-- Jupyter Notebook
-- Data Visualization
+## Skills & Tools
+
+| Category | Tools |
+|---|---|
+| Languages | Python |
+| ML/DL | Machine Learning, Deep Learning, PyTorch |
+| Data | Data Analysis, Statistical Computing, Data Visualization |
+| Workflow | Jupyter Notebook, Jupyter Book |
+
+## Explore My Work
+
+- 🧪 [Labs](labs/index.md) — hands-on exercises, from forward passes to CNNs
+- 📊 [Projects](projects/index.md) — larger applied work
+- 💭 [Reflections](reflections/index.md) — what I learned along the way
 
 ## Goal
 
-My goal is to develop practical skills that allow me to
-design, evaluate, and communicate data-driven solutions
-effectively.
+By the end of this course, I want to be able to design, evaluate, 
+and clearly communicate data-driven solutions — the kind that hold 
+up not just in a notebook, but when explained to someone who wasn't 
+in the room when it was built.

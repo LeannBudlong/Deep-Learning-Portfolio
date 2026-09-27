@@ -21,9 +21,11 @@ project:
   - title: "Laboratory Activities"
     children:
       - file: labs/index.md
-      - file: labs/lab01.ipynb
       - file: labs/lab02.ipynb
       - file: labs/lab03.ipynb
+      - file: labs/lab04.ipynb
+      - file: labs/lab05.ipynb
+      - file: labs/lab06.ipynb
 
 
   - title: "Assignments"
