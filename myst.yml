@@ -1,49 +1,64 @@
 # See docs at: https://mystmd.org/guide/frontmatter
+
 version: 1
+
 project:
   id: ddbe810b-af28-4966-9ac5-8d6aa5d00bf3
   title: Deep Learning Portfolio
   description: An initial portfolio
+
   keywords:
     - Deep Learning
     - Data Science
     - Machine Learning
     - Python
     - Jupyter
+
   authors:
     - name: "Leann Joy M. Budlong"
 
   toc:
-  - file: intro.md
-  - file: about.md
-  - file: learning.md
+    - file: intro.md
 
-  - title: "Laboratory Activities"
-    children:
-      - file: labs/index.md
-      - file: labs/lab02.ipynb
-      - file: labs/lab03.ipynb
-      - file: labs/lab04.ipynb
-      - file: labs/lab05.ipynb
-      - file: labs/lab06.ipynb
+    - file: about.md
 
+    - file: learning.md
 
-  - title: "Assignments"
-    children:
-      - file: assignments/index.md
+    - title: "Laboratory Activities"
+      children:
+        - file: labs/index.md
+          title: Laboratory Activities
 
-  - title: "Projects"
-    children:
-      - file: projects/index.md
+        - file: labs/lab02.ipynb
+          title: Forward Propagation
 
-  - title: "Reflections"
-    children:
-      - file: reflections/index.md  
+        - file: labs/lab03.ipynb
+          title: Forward and Backward Propagation
 
-  github: 
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+        - file: labs/lab04.ipynb
+          title: Linear Regression in PyTorch
+
+        - file: labs/lab05.ipynb
+          title: PyTorch Tensor Operations
+
+        - file: labs/lab06.ipynb
+          title: CNN Architecture Implementation
+
+    - title: "Assignments"
+      children:
+        - file: assignments/index.md
+
+    - title: "Projects"
+      children:
+        - file: projects/index.md
+
+    - title: "Reflections"
+      children:
+        - file: reflections/index.md
+
+  github:
+
 site:
   template: book-theme
   options:
-  #   favicon: favicon.ico
     logo_text: "Deep Learning Portfolio"
