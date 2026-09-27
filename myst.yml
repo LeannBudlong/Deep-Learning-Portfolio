@@ -19,8 +19,6 @@ project:
   toc:
     - file: intro.md
 
-    - file: learning.md
-
     - title: "Laboratory Activities"
       children:
         - file: labs/index.md
