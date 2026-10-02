@@ -28,6 +28,7 @@ project:
         - file: labs/lab04.ipynb
         - file: labs/lab05.ipynb
         - file: labs/lab06.ipynb
+        - file: labs/lab07.ipynb
 
     - title: "Assignments"
       children:
